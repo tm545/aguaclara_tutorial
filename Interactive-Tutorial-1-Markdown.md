@@ -8,77 +8,93 @@ Press `Ctrl + Shift + M` to open a formatted preview on the right.
 
 Write two sentences about yourself, each in a different paragraph.
 
-<!--- Write your answer here. --->
+ Hi my name is Tigran Mehrabyan.
+
+ I don't like tutorials.
 
 ## Headers
 
 Make a 3rd level header with your name:
 
-<!--- Write your answer here. --->
+##Tigran Mehrabyan
 
 ## Emphasis
 
 Write 4 of your favorite words using each type of emphasis:
 
-<!--- Write your answer here. --->
+*Delete*
+**Atom**
+***No***
+~~tutorials~~
 
 ## Lists
 
 Make an ordered list of 3 things you hope to achieve this semester, and elaborate on them with sub items. Then, make an unordered list of 3 classes that you're taking this semester:
 
-<!--- Write your answer here. --->
+1. Never code in python again
+    - Never open atom again
+    - Delete anaconda
+2. Further understand the kinetics of coagulant and fluoride binding
+    - Work with the CNARC team to understand the kinetics of this process
+    - We have data based on the equilibrium data after reaching steady state based on our Langmuir isotherm
+3. Report our findings
+    - Work with Monroe further to understand what exactly from our data is reportable
 
+- Physical Chemistry
+- Environmental Analysis
+- Principles of Drug Delivery
 ## Links
 
 Write a sentence describing your major, and insert a link to your major's department website:
 
-<!--- Write your answer here. --->
+The BEE major works with biology and its integration with engineering, look at our pretty [website.](https://beadvised.bee.cornell.edu/)
 
 ## Images
 
 Insert the Cornell seal image with:
-  1. A relative file path(`/Images/Cornell_University_seal.png`) 
-  2. A URL (https://raw.githubusercontent.com/AguaClara/aguaclara_tutorial/master/Images/Cornell_University_seal.svg.png)
+  1. A relative file path(
+    ![link](/Images/Cornell_University_seal.png)
+  2. ![A URL](https://upload.wikimedia.org/wikipedia/commons/4/47/Cornell_University_seal.svg)
 
-<!--- Write your answer here. --->
 
 ## Code Formatting
 
 Put the name of this file in an in-line (single backtick) code format.
 
-<!-- Write your answer here. -->
+(`)Interactive-Tutorial-1-Markdown.md(`)
 
 Put the following text in a Python-formatted code block:
 
-```
+```Python
 def foo():
     print("Particles of a feather...")
     print("...floc together!")
 ```
 
-<!-- Write your answer here. -->
 
 ## Tables
 
 Create a table listing your 3 favorite animals, books, and places on campus. Use a different alignment for each column.
-
-<!--- Write your answer here. --->
+|Animals|Books|Places|
+| --- | :---: | ---:|
+|Giraffes | Datta's Heat and Mass  | Arts Quad |
+| Hippos | The Textbook made by Textbook subteam of AguaClara | RileyRobb Hall |
+| Pelicans | atom uninstall readmefile | Hollister B60 |
 
 
 ## Blockquotes
 
 Write your favorite quote. It must be attributed to Albert Einstein.
 
-<!-- Write your answer here. -->
-
+```"I break the rules" - Charli XCX
+```
 ## Horizontal Rules
-
+---
 Add a horizontal rule:
 
-<!-- Write your answer here. -->
 
 ## LaTeX Formatting
 
 Copy the equation towards the end of the [Markdown tutorial](https://github.com/AguaClara/aguaclara_tutorial/wiki/Markdown#latex-formatting) and paste it here:
 
-<!-- Write your answer here. -->
+$$ a^2 + b^2 = c^2 $$
